@@ -1,4 +1,3 @@
-![Uploading Screenshot (23).png…]()
 
 
 Download python 3.11
