@@ -9,6 +9,8 @@ Extract Smtp Sender into Desktop
 Open CMD and type the following commands:
 cd Desktop/Python-Sender-/
 mass.py
+Instalasi: pip install colorama
+Instalasi: pip install cryptography
 ```
 
 ## FITUR APA SAJA YANG BARU DI E991.
